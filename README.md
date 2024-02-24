@@ -14,3 +14,5 @@ Ensure that you have the following dependencies installed:
 
 Python 3.x
 Pip (Python package installer)
+
+Note: Currently supporting only English Language Pdf.
